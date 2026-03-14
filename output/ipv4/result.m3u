@@ -1,0 +1,7 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/csy3053928/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.15:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-14 21:27:11
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="湖南卫视" tvg-logo="http://10.1.0.15:5180/logo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="翡翠台" tvg-logo="http://10.1.0.15:5180/logo/翡翠台.png" group-title="🇭🇰港澳台",翡翠台
+rtmp://demo2.anj365.com/live/xiangjiaoge-fc
